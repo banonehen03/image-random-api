@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HELLSNAKES/image-random-api.git"
+    "url": "https://github.com/banonehen03/image-random-api.git"
   },
-  "author": "HELLSNAKES",
+  "author": "KAV",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HELLSNAKES/image-random-api/issues"
+    "url": "https://github.com/banonehen03/image-random-api/issues"
   },
-  "homepage": "https://github.com/HELLSNAKES/image-random-api#readme",
+  "homepage": "https://github.com/banonehen03/image-random-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.0",
