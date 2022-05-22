@@ -4,7 +4,7 @@
 
 #### 1. Clone the repository.
 ```
-git clone https://github.com/HELLSNAKES/image-random-api.git
+git clone https://github.com/banonehen03/image-random-api.git
 ```
 #### 2. Navigate to the directory.
 ```
@@ -25,7 +25,3 @@ npm start
 - /kurumi?apikey=
 - /rushia?apikey=
 
-## Video Installation instructions
-
-* Replit
- [![a](https://i.ytimg.com/vi/8grd5gOyX7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=8grd5gOyX7I)
