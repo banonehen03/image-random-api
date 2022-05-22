@@ -1,0 +1,25 @@
+{
+	"plugin_name": "tkb",
+	"plugin_scope": "tkb",
+	"plugin_exec": "tkb.js",
+	"command_map": {
+		"Thienbinh": {
+			"hargs": {
+				"vi_VN": "< thời khóa biểu >",
+				"en_US": ""
+			},
+			"hdesc": {
+				"vi_VN": "thời khóa biểu",
+				"en_US": ""
+			},
+			"fscope": "tkb_get",
+			"compatibly": 0
+		}
+	},
+	"author": "anhviet",
+	"version": "1.0",
+	"node_depends": {
+		"node-fetch": ""
+	},
+	"complied_for": "0.3.0"
+}
